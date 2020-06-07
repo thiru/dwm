@@ -13,3 +13,11 @@
 1. The **upstream** branch follows Suckless' **master** branch.
 
 1. Branches that start with **patch-** are "official" patches [available on Suckless](https://dwm.suckless.org/patches/).
+
+## Patches
+
+* [autostart](https://dwm.suckless.org/patches/autostart/)
+  * changed autostart scripts path from `~/.dwm` to `~/.config/dwm`
+* [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
+  * changed terminal to `Alacritty`
+  * changed binding to `mod + s`
