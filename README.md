@@ -23,5 +23,9 @@
 * [restartsig](https://dwm.suckless.org/patches/restartsig/)
   * `mod + ctrl + shift + q`
 * [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
-  * `mod + s` (default was `mod + tilde`)
+  * `mod + s`
+    * (default was `mod + tilde`)
   * changed terminal to `Alacritty`
+* [sticky](https://dwm.suckless.org/patches/sticky/)
+  * `mod + shift + s`
+    * (default was `mod + s`)
