@@ -18,6 +18,8 @@
 
 * [autostart](https://dwm.suckless.org/patches/autostart/)
   * changed autostart scripts path from `~/.dwm` to `~/.config/dwm`
+* [restartsig](https://dwm.suckless.org/patches/restartsig/)
+  * default binding is `mod + ctrl + shift + q`
 * [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
   * changed terminal to `Alacritty`
   * changed binding to `mod + s`
