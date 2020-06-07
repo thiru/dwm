@@ -17,11 +17,11 @@
 ## Patches
 
 * [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
-  * default binding is `mod + shift + f`
+  * `mod + shift + f`
 * [autostart](https://dwm.suckless.org/patches/autostart/)
   * changed autostart scripts path from `~/.dwm` to `~/.config/dwm`
 * [restartsig](https://dwm.suckless.org/patches/restartsig/)
-  * default binding is `mod + ctrl + shift + q`
+  * `mod + ctrl + shift + q`
 * [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
+  * `mod + s` (default was `mod + tilde`)
   * changed terminal to `Alacritty`
-  * changed binding to `mod + s`
