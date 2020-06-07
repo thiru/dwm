@@ -16,6 +16,8 @@
 
 ## Patches
 
+* [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
+  * default binding is `mod + shift + f`
 * [autostart](https://dwm.suckless.org/patches/autostart/)
   * changed autostart scripts path from `~/.dwm` to `~/.config/dwm`
 * [restartsig](https://dwm.suckless.org/patches/restartsig/)
