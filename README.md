@@ -20,6 +20,10 @@
   * `mod + shift + f`
 * [autostart](https://dwm.suckless.org/patches/autostart/)
   * changed autostart scripts path from `~/.dwm` to `~/.config/dwm`
+* [fullgaps](https://dwm.suckless.org/patches/fullgaps/)
+  * `mod + =` increase gap
+  * `mod + -` decrease gap
+  * `mod + shift + =` remove gaps
 * [restartsig](https://dwm.suckless.org/patches/restartsig/)
   * `mod + ctrl + shift + q`
 * [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
