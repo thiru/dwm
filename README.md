@@ -25,6 +25,7 @@
   * `mod + =` increase gap
   * `mod + -` decrease gap
   * `mod + shift + =` remove gaps
+* [insets](https://dwm.suckless.org/patches/insets/)
 * [restartsig](https://dwm.suckless.org/patches/restartsig/)
   * `mod + ctrl + shift + q`
 * [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
