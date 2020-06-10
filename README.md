@@ -45,3 +45,7 @@
   * Ability to stick window so it appears in all tags
   * `mod + shift + s`
     * (default was `mod + s`)
+
+## Credits
+
+Thanks to [Luke Smith's build](https://github.com/lukesmithxyz/dwm) as this is originally based on it.
