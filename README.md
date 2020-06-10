@@ -37,6 +37,10 @@
   * `mod + s`
     * (default was `mod + tilde`)
   * changed terminal to `Alacritty`
+* [shiftview](https://dwm.suckless.org/patches/nextprev/)
+  * Cycle through tags
+  * `mod + shift + h` go to left tag
+  * `mod + shift + l` go to right tag
 * [sticky](https://dwm.suckless.org/patches/sticky/)
   * Ability to stick window so it appears in all tags
   * `mod + shift + s`
