@@ -17,20 +17,27 @@
 ## Patches
 
 * [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
+  * Make windows full-screen
   * `mod + shift + f`
 * [autostart](https://dwm.suckless.org/patches/autostart/)
+  * Ability to specify user scripts when starting dwm
   * changed autostart scripts path from `~/.dwm` to `~/.config/dwm`
 * [centeredmaster](https://dwm.suckless.org/patches/centeredmaster/)
+  * A popular layout with the focus in the middle of the screen
 * [fullgaps](https://dwm.suckless.org/patches/fullgaps/)
+  * Pretty gaps between windows
   * `mod + =` increase gap
   * `mod + -` decrease gap
   * `mod + shift + =` remove gaps
 * [restartsig](https://dwm.suckless.org/patches/restartsig/)
+  * Restart dwm without logging out (to update source)
   * `mod + ctrl + shift + q`
 * [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
+  * A persistent terminal scratchpad that can be easily brought in and out
   * `mod + s`
     * (default was `mod + tilde`)
   * changed terminal to `Alacritty`
 * [sticky](https://dwm.suckless.org/patches/sticky/)
+  * Ability to stick window so it appears in all tags
   * `mod + shift + s`
     * (default was `mod + s`)
