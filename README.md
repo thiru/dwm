@@ -14,6 +14,10 @@
 
 1. Branches that start with **patch-** are based on ["official" patches](https://dwm.suckless.org/patches/) available as source on the suckless website.
 
+## Dependencies
+
+* [alacritty](https://github.com/alacritty/alacritty)
+
 ## Patches
 
 * [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
