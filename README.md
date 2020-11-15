@@ -1,5 +1,7 @@
 # Thiru's build of dwm
 
+*NOTE: I'm not using dwm anymore, as I prefer qtile.*
+
 [dwm](https://dwm.suckless.org/) is a minimalist tiling window manager for Linux.
 
 ## FAQ
